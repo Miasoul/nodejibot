@@ -1,0 +1,12 @@
+{
+  "name": "dcobot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "test.js",
+  "scripts": {
+    "r": "node index.js"
+  },
+  "dependencies": {
+    "discord.js": "^12.5.1"
+  }
+}
